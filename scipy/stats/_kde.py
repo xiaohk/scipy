@@ -573,7 +573,7 @@ class gaussian_kde:
 
     def pdf(self, x):
         """
-        Evaluate the estimated pdf on a provided set of points.
+        Evaluate the estimated pdf on a set of points.
 
         Notes
         -----
